@@ -16,7 +16,7 @@
 
     ![image](https://github.com/winofsql/java-basic-misc/assets/1501327/741f99ce-250d-479d-b305-100296ff18c9)
 
-  - メソッドがエラーにならないので、再度 **Clean Java Language Server Workspace* を実行
+  - メソッドがエラーにならないので、再度 **Clean Java Language Server Workspace** を実行
   - メソッドがエラーになるので、メソッドの定義を作成しなおす
 
     ![image](https://github.com/winofsql/java-basic-misc/assets/1501327/669729dc-78d9-4b71-8122-c05b3ecd52a1)
