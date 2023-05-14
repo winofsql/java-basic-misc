@@ -10,7 +10,7 @@
     
     ![image](https://github.com/winofsql/java-basic-misc/assets/1501327/876a359f-f331-4f47-805e-3173e78f7716)
 
-  - コマンドパレットで **clean java** と入力して Clean Java Language Server Workspace を実行
+  - コマンドパレットで **clean java** と入力して **Clean Java Language Server Workspace** を実行
 
     ![image](https://github.com/winofsql/java-basic-misc/assets/1501327/804eb252-9ee1-4247-87e0-c7d118dcea7f)
 
