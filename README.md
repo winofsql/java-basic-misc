@@ -1,4 +1,4 @@
-# subject-1014-java-basic-misc
+# java-basic-misc
 
 ## テキストブロックは Java15 以降
 
