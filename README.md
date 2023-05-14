@@ -23,4 +23,12 @@
 
     ![image](https://github.com/winofsql/java-basic-misc/assets/1501327/669729dc-78d9-4b71-8122-c05b3ecd52a1)
 
+<br>
 
+### ✅ Fourth.java を作成して、呼び出しを一から作成する
+
+  - 新しいファイル作成
+
+  - スニペットの **main* でエントリポイント作成
+
+  - 呼び出し部分を作成
